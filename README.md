@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 ![Study Abroad](https://github.com/user-attachments/assets/7c2193ff-6034-4419-88df-1983f50377ef)
 *I just recently went to Morocco and France for the first time out of the country for study abroad! I also got to see one of the first ever African World Cup games in Morocco! *
 
-![I do media, youth programming, and outreach at my church](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycjRodzVnd3V1NWVxMzVpc2E5bzFrMjA2OHp2OWVqNW5kZ3pvZXR5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/USjkBQVxw1gVjFarkD/source.gif)
+![Media](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycjRodzVnd3V1NWVxMzVpc2E5bzFrMjA2OHp2OWVqNW5kZ3pvZXR5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/USjkBQVxw1gVjFarkD/source.gif)
+
+![Church Media](https://media.giphy.com/media/USjkBQVxw1gVjFarkD/giphy.gif)
+*I do media, youth programming, and outreach at my church*
 
 As you can tell I love staying busy! 😃
 
