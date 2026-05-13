@@ -1,6 +1,6 @@
 ## Hello All, My Name is Alaina Washington 👋
 
-<!--
+
 **alw14027/alw14027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 ![I do media, youth programming, and outreach at my church](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycjRodzVnd3V1NWVxMzVpc2E5bzFrMjA2OHp2OWVqNW5kZ3pvZXR5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/USjkBQVxw1gVjFarkD/source.gif)
 
 As you can tell I love staying busy! 😃
-) 
--->
+
