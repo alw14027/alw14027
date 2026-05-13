@@ -3,13 +3,11 @@
 
 **alw14027/alw14027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Introduction of myself: I’m currently working at Pratt & Whitney in Global Supply Chain while actively seeking new role in manufacturing engineering to get closer to my background in engineering. I’m currently taking two summer classes OPIM 5512 and ACCT 5535 which will complete my MBA program and another class in fall to complete my MEng degree. 2027 Graduate in the making. 
 
-- 🔭 I’m currently working at Pratt & Whitney in Global Supply Chain while actively seeking new role in manufacturing engineering to get closer to my background in engineering.
-- 🌱 I’m currently taking two summer classes OPIM 5512 and ACCT 5535
-- 👯 I’m looking forward to collaborate with everyone on this class on projects and other assignments. Also if anyone is a guru in all things GitHub would like to work with you and understand some of the nuances of this platform!
-- 📫 How to reach me: alaina.washington@uconn.edu
-- 😄 Pronouns: She/Her
+- 🖥️ Program: Masters in Business Administration with a Concentration in Data Analytics and Masters in Manufacturing Engineering 
+- 💪 Skills I hope to learn this semester are creating repositories in GitHub, developing code with a partner in GitHub using branches, working with Visual Studio Code, and working with Google Cloud Platform. I also hope to continue to brush up on machine learning and how to apply this to other projects in work. 
+
 - ⚡ Fun fact: I am the only female and the youngest sibling. (No I am not spoiled) 
 - 🆓 Hobbies: Traveling, Family & Friends, Church, Community Service 
 
